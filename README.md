@@ -73,13 +73,11 @@ Projeye ismini veren “matruşka” felsefesi, her modülün birbiriyle uyumlu 
 - Akademik projelerden sızma testlerine, laboratuvar simülasyonlarından staj dosyalarına kadar geniş kullanım alanı.
 - Tamamen açık kaynak ve geliştirici dostudur.
 
----
 
-## 📸 Ekran Görüntüleri *(Opsiyonel)*
 
-> Ekran çıktılarınızı bu bölüme ekleyerek projenizin arayüzünü sergileyebilirsiniz.
 
----
+
+
 
 ## 🤝 Katkıda Bulunmak
 
