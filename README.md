@@ -1,4 +1,4 @@
-# 🎃 Matryoshka: Modüler Ağ Güvenliği ve Analiz Aracı
+# 🎎 Matryoshka: Modüler Ağ Güvenliği ve Analiz Aracı
 
 > **“İç içe geçmiş modüllerle, derinlemesine ağ güvenliği ve analiz.”**
 
